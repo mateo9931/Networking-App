@@ -1,25 +1,13 @@
-# Standard Deviation App
+# Networking App
 
-Este programa calcula la desviacion estandar y la media de un set de n numeros tomados de un archivo.
+Este programa cuenta con 4 paquetes diferentes, uno para cada ejercicio de los 4 primeros ejercicios propuesto en texto "Introduccion a esquemas de nombres, redes,clientes y servicios con Java" Luis Daniel Benavides Navarro 
 
 ### Aplicativo:
-El aplicativo cuenta con 2 clases la primera es la clase main y la segunda es donde se encuentran cada uno de los metodos encargados de calcular la desviacion estandar y la media, entre ellos estan sumar linked list, obtener un array apartir del texto, y los calculos respectivos del aplicativo
 
-Adicional esta la clase de Test donde estan algunos test realizados para comprobar la solucion del calculo de la desviacion estandar y la media.
 
-Algunos test fueron tomados del instructivo de la actividad.
-
-### Util:
-Se tiene el paquete util donde se encuentran 4 clases necesarias en el aplicativo para realizar los calculos, Estas se usan ya que el set de n numeros obtenidos del archivo son almacenados en Linked List
-
-* Iterator
-* Linked List
-* Node
-* Reader
 
 ### Como ejecutarlo:
 
-Para ejecutarlo se debe ir a la ubicacion del proyecto, luego llamar el aplicativo de java y invocar la clase StandardDeviationApp.java y ahi llamar al metodo main. Este recibe el parametro con la ruta donde se encuentra el archivo que contiene el set de N numeros.
 
 ### Prerrequisitos
 
@@ -51,11 +39,10 @@ Fue ejecutado con version java 11
 
 ## LOC
 
-	220 lineas en 8 horas
-	27 lineas codigo por hora
+	
 
 ## TEST
-  ![](./src/main/images/testimage.png)
+  
 
 
 ## Javadoc
