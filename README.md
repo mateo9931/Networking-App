@@ -4,9 +4,12 @@ Este programa cuenta con 4 paquetes diferentes, uno para cada ejercicio de los 4
 
 ### Aplicativo:
 
+* Ejercicio 1 URLreader indica los 8 metodos para conocer de que manera esta formada una URL
 
+* Ejercicio 2 paquete URLreadinfo clase para leer el contenido de una URL. Se realizo la prueba copiando el html resultado luego de leer el contenido y observandolo en local
 
-### Como ejecutarlo:
+![](./src/main/resource/punto2.png) 
+
 
 
 ### Prerrequisitos
