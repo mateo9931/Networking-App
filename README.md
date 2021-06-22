@@ -10,7 +10,14 @@ Este programa cuenta con 4 paquetes diferentes, uno para cada ejercicio de los 4
 
 ![](./src/main/resource/punto2.png) 
 
+* Ejercicio 3 paquete square number, estan implementados la clase servidor y cliente donde el cliente indica un numero y el servidor le devuelve el cuadrado del numero
 
+* Ejercicio 4 paquete calcnumber, estan inmplementadas clase servidor y cliente donde el cliente indica que operacion quiere realizar (sin,cosa,tan) y mientras no cambie de operacion el servidor debera seguir retornando el resultado del numero que el cliente indique 
+
+
+### Como Ejecutarlo?
+
+Se debe lanzar para ejercicios 3 y 4 cliente y servidor para que se conecten, una vez conectados se pueden enviar los mensajes desde cliente y que servidor indique respuesta
 
 ### Prerrequisitos
 
@@ -36,17 +43,17 @@ Fue ejecutado con version java 11
 ## Construcción 
 * [Maven](https://maven.apache.org/) - Dependencias de maven
 
+## Fecha
+* 11 Junio 2021
+
 ## Autores
 
 * **Mateo Quintero Acevedo** 
 
 ## LOC
 
-	
-
-## TEST
-  
-
+350 lineas en 12 horas
+29 lineas codigo por hora
 
 ## Javadoc
 
