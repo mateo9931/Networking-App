@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edu.escuelaing.arsw.Networking"},{"l":"edu.escuelaing.arsw.Networking.calcnumber"},{"l":"edu.escuelaing.arsw.Networking.squareNumber"},{"l":"edu.escuelaing.arsw.Networking.URLgetinfo"},{"l":"edu.escuelaing.arsw.Networking.URLReader"}]
